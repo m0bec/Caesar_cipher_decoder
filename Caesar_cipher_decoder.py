@@ -2,7 +2,7 @@
 
 print("input Caesar cipher: ", end = "")
 cipher = input()
-print("input plain text (Not knowing word is *): ", end = "")
+print("input plain text (Unknown word convert *): ", end = "")
 plain = input()
 
 list_cip = list(cipher)
